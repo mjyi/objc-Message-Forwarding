@@ -1,3 +1,3 @@
 # Objective-C Runtime
 
-[http://blog.itxuz.com/post/2017/1705-messaging/](http://blog.itxuz.com/post/2017/1705-messaging/)
+理解 Objc 的消息机制。
